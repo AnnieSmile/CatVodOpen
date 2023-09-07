@@ -59,3 +59,5 @@ src2Out();
 fs.copyFileSync(path.join(src, 'config_open.json'), path.join(out, 'config_open.json'));
 
 console.log('done');
+
+
